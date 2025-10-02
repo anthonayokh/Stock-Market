@@ -33,7 +33,7 @@ This project creates a Telegram bot that predicts stock prices using historical 
 
 3.  **Run the Script:**
     ```bash
-    python your_script_name.py
+    stock_price_bot.py
     ```
 
 ## Usage
